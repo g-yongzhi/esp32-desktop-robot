@@ -47,18 +47,17 @@
 ├── README.md
 ├── docs/
 │   ├── bom-summary.csv
-│   └── board-list.csv
+│   ├── board-list.csv
+│   └── project-notes.md
 ├── hardware/
-│   └── source-package/
-│       └── ProProject_ElectronBot语音绿荫修改版.epro
-└── images/
-    └── 项目截图、实物图待补
+│   └── source-package/     # 待补充 .epro 原始工程包
+└── images/                 # 待补充项目截图、实物图
 ```
 
 ## 如何打开工程
 
 1. 安装或打开嘉立创 EDA 专业版。
-2. 导入 `hardware/source-package/ProProject_ElectronBot语音绿荫修改版.epro`。
+2. 导入 `ProProject_ElectronBot语音绿荫修改版.epro`。
 3. 查看原理图、PCB、板卡和元器件库信息。
 
 ## 待补充资料
